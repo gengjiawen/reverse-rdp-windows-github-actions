@@ -1,5 +1,5 @@
 {
-  "name": "reverse-rdp-windows-github-actions",
+  "name": "rdp-hepler",
   "version": "1.0.0",
   "description": "Ever wonder what the Desktop of the Windows Runners on GitHub Actions looks like?",
   "main": "index.js",
